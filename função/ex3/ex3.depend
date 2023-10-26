@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667845642 source:c:\users\pedro\desktop\faculdade\função\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"delta.h"
+
+1667846279 c:\users\pedro\desktop\faculdade\função\ex3\delta.h
+	<math.h>
+

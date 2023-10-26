@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667846906 source:c:\users\pedro\desktop\faculdade\função\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"metrica.h"
+
+1667847106 c:\users\pedro\desktop\faculdade\função\ex5\metrica.h
+

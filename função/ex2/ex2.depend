@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667844995 source:c:\users\pedro\desktop\faculdade\função\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parimpar.h"
+
+1667845149 c:\users\pedro\desktop\faculdade\função\ex2\parimpar.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667847566 source:c:\users\pedro\desktop\faculdade\função\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"potencia.h"
+
+1667847700 c:\users\pedro\desktop\faculdade\função\ex6\potencia.h
+	<math.h>
+

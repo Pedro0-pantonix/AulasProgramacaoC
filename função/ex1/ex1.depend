@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667844143 source:c:\users\pedro\desktop\faculdade\função\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+
+1667844171 c:\users\pedro\desktop\faculdade\função\ex1\tipo.h
+
